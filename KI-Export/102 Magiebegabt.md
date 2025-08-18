@@ -1,0 +1,3 @@
+- bezeichnet Fähigkeit Magie zu wirken 
+- immer ein [[101 Magieelemente]]
+- jede [[310 Humanoide]] und [[350 Wesen]] kann theoretisch Magie wirken 
