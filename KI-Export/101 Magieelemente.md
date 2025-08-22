@@ -11,7 +11,7 @@
 ## Zuordnung zu Urkräften
 - [[104 Aquilana]]: Tiermagie + Mentalmagie
 - **[[105 Caelidra]]:** Zeitmagie + Objektmagie  
-- **[[106 Umraleon]]:** Limbomagie + Metamagie
+- **[[106 Umbraleon]]:** Limbomagie + Metamagie
 
 ## Geografische Verteilung unter [[311 Menschen]]
 

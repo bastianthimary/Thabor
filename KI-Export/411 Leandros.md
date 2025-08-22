@@ -1,0 +1,13 @@
+- lebt bis 14. Lebensjahr in [[503 Darkmoore]],
+	- überlebt erscheinung von [[173 Salamander Rokubi]] 
+	- findet dabei [[177 Aurin- Senke der Magie]], hält es für mächtiges [[251 Nullthril]] Artefakt  
+	- hat dunkle Gestallt beobachtet wie dieser [[173 Salamander Rokubi]] beschwört
+	- weiß nicht dass diese Gestallt [[402 Ascheron]] war
+- Entwickelt daraufhin Hass gegen [[102 Magiebegabt]]
+- geht zu [[250 Inquisition]]
+- wird Anführer der Inquisition (stand heute)
+- geht brutal gegen Magier vor 
+- weiß nicht dass er selbst Magiebegabt, [[130 Limbomagie]] ist
+- Rechte Hand von [[414 Korvanis]], Wissen nur wenige 
+- Durch Nutzen von Aurin stärkt er Korvanis ohne davon zu wissen 
+- Antagonist der Heldengruppe 

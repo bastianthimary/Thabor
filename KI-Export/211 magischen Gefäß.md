@@ -1,0 +1,2 @@
+Gefäß für [[210 Thalarius]] seele nachdem er [[220 Arkanon]] besiegt hatte und [[170 Aurin]] zerbrach. 
+Der Teil von Thalarius seele der in Odo blieb war in diesem Gefäß bis [[270 Korvanis Ritual]]. Danach wurde das Gefäß nach [[501 Thabor]] gebracht.

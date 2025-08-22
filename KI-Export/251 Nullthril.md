@@ -1,0 +1,1 @@
+ein Erz das Magie kurzzeitig blockiert, bzw neutralisiert. Wird von [[250 Inquisition]] in Waffen und Gefängnissen verwendet um [[102 Magiebegabt]] fangen zu können

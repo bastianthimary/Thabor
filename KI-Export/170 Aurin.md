@@ -30,5 +30,5 @@ Jedes Bruchstück hat [[171 Aurins wächter]]
 - **Verstärken:** Bei [[172 Zwergdrache Arnold]] (versteinert, Gebirge)
 
 ## Wiedervereinigung
-- **Benötigt:** Alle 3 Bruchstücke + [[Korvanis-Amulett]]
-- **Zweck:** Neuen [[Cun Dün]] erschaffen oder [[Thalarius]] befreien
+- **Benötigt:** Alle 3 Bruchstücke + [[271 Artefakt]]
+- **Zweck:**  [[Thalarius]] seele zu Einen, den Zyklus des [[180 Cun Dün]] wiederentfachen

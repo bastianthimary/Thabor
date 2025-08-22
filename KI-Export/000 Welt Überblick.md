@@ -117,4 +117,3 @@ Magie-System:
 - Thabor: Süden von Odo an der Küste
 
 
-## Aktuelle Zeitperiode [Jahr/Ära und wichtige Ereignisse der letzten Zeit]

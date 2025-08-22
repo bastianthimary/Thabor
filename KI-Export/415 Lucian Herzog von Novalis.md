@@ -1,0 +1,14 @@
+**Grunddaten:** 
+- **Alter:** 55 Jahre 
+- **Status:** Lebend 
+- **Magiebegabt:** Ja 
+- **Position:** Herrscher von Novalis 
+- **Familie:**
+- **Töchter:** [[407 Xernia]] und Aurelia 
+- **Ehefrau:** Valeria (verstorben) 
+- **Geheime Zugehörigkeit:** 
+- **Organisation:** Anführer des **[[280 Nekrotikum]]** 
+- **Ideologie:** Sieht Magier als die einzig wahren Menschen 
+- **Überzeugung:** Alle Nichtmagier sind niedere Wesen 
+- **Ziel:** Magier-Suprematie etablieren 
+- **Politische Rolle:** - Nutzt seine Stellung als Herzog für die Ziele des Nekrotikums - Rekrutiert heimlich neue Mitglieder - Arbeitet gegen die Interessen des Kaisers - Steht im Konflikt mit seiner Tochter Aurelia (unwissend)

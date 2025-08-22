@@ -4,7 +4,7 @@
 - **Element:** Limbo  
 - **Urkraft:** [[Umbraleon]]
 - **Häufigkeit:** Extrem selten (1 Vertreter alle paar hundert Jahre)
-- **Aktueller Vertreter:** Unbekannt (nach [[Arkanon]])
+- **Aktueller Vertreter:** [[402 Ascheron]] (nach [[220 Arkanon]])
 
 ## Fähigkeiten
 - **[[375 Limbowesen]]** beschwören und kontrollieren

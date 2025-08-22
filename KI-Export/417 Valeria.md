@@ -1,0 +1,13 @@
+Grunddaten:** 
+- **Alter:** 50 Jahre (zum Zeitpunkt des Todes) 
+- **Status:** Verstorben
+- **Magiebegabt:** Ja (gebürtige Magierin)
+- **Familie:** 
+	- **Töchter:** Xernia und Aurelia 
+	- **Ehemann:** Lucian Herzog von Novalis
+- **Aussehen:** - Lange weißblonde Haare - Sehr helle, fast bleiche Haut - Elegante, aristokratische Erscheinung 
+- **Historische Bedeutung:**
+- **Geheimhaltung:** Hielt ihre Magiekräfte während der Verfolgungszeit geheim - **Legendenerschaffung:** Erfand die Legende von "[[440 Noctura Legende]]" als Deckgeschichte 
+- **Kriegsbeitrag:** Nutzte ihre wahren magischen Fähigkeiten gegen die Vierarmigen - **Täuschung:** Galt offiziell als "erste Nocutra-Magierin", war aber gebürtige Magierin 
+- **Die Nocutra-Legende:** - Behauptete, ihre Kräfte von einer mystischen Quelle namens "Nocutra" erhalten zu haben - Diese Lüge schützte sie und andere Magier vor Verfolgung - Ermöglichte den offenen Einsatz von Magie im Krieg - Wurde zur Grundlage für spätere Magier-Akzeptanz 
+- **Tod:** - Umstände unbekannt

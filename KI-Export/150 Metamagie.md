@@ -1,0 +1,4 @@
+- hat die Fähigkeit andere Zauber zu replizieren, neutralisieren oder zu verändern
+- kann Magieaura bzw. die Farbe bestimmen dadurch genauer Wirkende Magie Analysieren
+- [[403 Elian]] aktuell einziger Vertreter dieses Elements 
+- Aurafarbe: Rot

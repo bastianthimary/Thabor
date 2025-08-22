@@ -1,0 +1,3 @@
+- vor 25 Jahren unzählige Herr Scharen von Vierarmige überrennen Reich von [[502 Sonnenstein]] von  [[413 Kaiser Augilis II]]
+- nur ein Bündnis zwischen Kaiserreich und es kam zu [[261 Transmagischen Konvent]][[102 Magiebegabt]] + [[240 Kaiserreich]] jetzt vereint 
+- 

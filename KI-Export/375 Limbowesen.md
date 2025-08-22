@@ -15,7 +15,7 @@
 - **Seelenführer:** Begleiten friedlich Sterbende
 - **Wächter:** Schützen Limbo vor Eindringlingen  
 - **Wilde:** Von [[220 Arkanon]] korrumpiert (historisch)
-- **Boten:** Dienen - [[106 Umraleon]]
+- **Boten:** Dienen - [[106 Umbraleon]]
 
 ## Wahrnehmung durch Menschen
 - **Angst:** Verbunden mit Tod und Verlust

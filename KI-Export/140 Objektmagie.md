@@ -1,0 +1,3 @@
+- Alle Objekte wie Gesteine, Hölzer fallen unter Materie
+- Objekte haben Magische Energie durch Objektmagie wird diese Energie gelenkt
+- Vor allem in den Randberizken von [[001 Odo]]

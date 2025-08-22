@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "05596630a0544d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b70b27ae05e682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c80c6a5c4e687ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "211 magischen Gefäß.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "211 magischen Gefäß"
+            }
+          },
+          {
+            "id": "66e3dec1d091173c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inhaltsverzeichnis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inhaltsverzeichnis"
+            }
+          },
+          {
+            "id": "f3c10a186805f42c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "104 Aquilana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "104 Aquilana"
+            }
+          },
+          {
+            "id": "1130399dcf79c5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "170 Aurin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "170 Aurin"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daf0f309c4c8b777",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e7067d6a3214614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d00f5fef7a3ce3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "323770a3788fbba9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[[Aquilana]]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "3e1bc265fc52d577",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d19ab7bad5c67b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "73828d196203e4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f2369492877a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inhaltsverzeichnis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Inhaltsverzeichnis"
+            }
+          },
+          {
+            "id": "59ae06b3ab4fb7d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inhaltsverzeichnis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Inhaltsverzeichnis öffnen"
+            }
+          },
+          {
+            "id": "2980bad1ed0c46df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "288d930f49a8799c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inhaltsverzeichnis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Inhaltsverzeichnis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "66e3dec1d091173c",
+  "lastOpenFiles": [
+    "103 Urkräfte der Magie.md",
+    "000 Welt Überblick.md",
+    "106 Umbraleon.md",
+    "104 Aquilana.md",
+    "102 Magiebegabt.md",
+    "101 Magieelemente.md",
+    "170 Aurin.md",
+    "506 Weiding.md",
+    "505 Novalis.md",
+    "503 Darkmoore.md",
+    "178 Auserwählte.md",
+    "171 Aurins wächter.md",
+    "150 Metamagie.md",
+    "140 Objektmagie.md",
+    "414 Korvanis.md",
+    "270 Korvanis Ritual.md",
+    "211 magischen Gefäß.md",
+    "271 Artefakt.md",
+    "250 Inquisition.md",
+    "251 Nullthril.md",
+    "240 Kaiserreich.md",
+    "220 Arkanon.md",
+    "210 Thalarius.md",
+    "280 Nekrotikum.md",
+    "415 Lucian Herzog von Novalis.md",
+    "413 Kaiser Augilis II.md",
+    "262 Magiergesetz"
+  ]
+}

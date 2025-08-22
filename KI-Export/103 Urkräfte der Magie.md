@@ -1,0 +1,8 @@
+- So etwas wie die Götter in der Welt 
+- der Ursprung der Magie
+- Repräsentieren je 2 [[101 Magieelemente]]
+- Es gibt 3 Urkräfte [[104 Aquilana]], [[105 Caelidra]] und [[106 Umbraleon]]
+	- Aquilana= [[120 Mentalmagie]], [[110 Tiermagie]]
+	- Caelidra= [[160 Zeitmagie]], [[140 Objektmagie]]
+	- Umbraleon = [[150 Metamagie]], [[130 Limbomagie]]
+- 
